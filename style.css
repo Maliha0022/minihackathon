@@ -52,7 +52,7 @@ h1{
     font-weight: 200;
 }
 
-.submitbtn{
+#submitbtn{
     margin-left: 10px;
     padding-right: 30px;
 }
